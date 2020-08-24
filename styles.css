@@ -312,6 +312,10 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
       margin:0;
   
     }
+
+    .copyright a {
+        margin-left: 20px;
+      }
   
 
 /* MEDIA QUERIA START HERE */
@@ -336,7 +340,6 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
       .copyright p {
         margin-left: 464px;
     }
-    
 
     }
 
@@ -684,6 +687,7 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
     .button-header{
       margin: -30px 38px;
     }
+
     }
 
     /* MEDIA QUERIA 500PX */
@@ -711,6 +715,11 @@ html{line-height:1.15;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}bo
      
       margin-left: 79px;
     }
+
+    .copyright a {
+        display:none;
+
+      }
 
     }
 
